@@ -9,5 +9,5 @@ A few examples and tutorials to familiarize you with using S3MPython to define m
 
 # How to use the examples.
 
-Refer to the [examples documentation](https://datainsights.tech/S3MPython_examples).
+Refer to the [Tutorial in the User Guide](https://s3model.com/userguide/docs/Setup.html).
 
