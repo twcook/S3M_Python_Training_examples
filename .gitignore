@@ -103,14 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# S3MPython
-conf/
-s3model/
-catalogs/
-dmlib/
-stub.json
-stub.xml
-stub.xsd
-
 # editor
 .vscode/
