@@ -105,3 +105,13 @@ venv.bak/
 
 # editor
 .vscode/
+
+stub.xml
+stub.xsd
+S3MPythonEx.xpr
+s3model/
+conf/
+catalogs/
+rdfdir/
+xmldir/
+dmlib/
