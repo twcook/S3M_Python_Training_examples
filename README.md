@@ -4,8 +4,6 @@
 
 Examples and tutorials for S3MPython.
 
-A few examples and tutorials to familiarize you with using S3MPython to define models in your own project.
-
 
 # How to use the examples.
 
